@@ -1,0 +1,33 @@
+{
+  "validations": {
+    "requiredField": "Required field",
+    "invalidEmail": "Email is invalid",
+    "invalidPassword": "Password must be at least 8 characters and must contain 1 upper case, 1 lower case, 1 digit and 1 special character",
+    "invalidPassphrase": "Passhrase must contain at least 8 characters and must contain 1 upper case, 1 lower case, 1 digit and 1 special character",
+    "requiredName": "Name is required",
+    "requiredEmail": "Email is required",
+    "requiredPassword": "Password is required",
+    "equalPassword": "Passwords should be equal",
+    "twofaCodeRequired": "2Fa code is required",
+    "twofaMinDigits": "2Fa code should consist of {count} digits",
+    "emailCodeRequired": "Email code is required",
+    "emailCodeMinDigits": "Email code should consist of {count} digits",
+    "agreementAccept": "Please accept the User Agreement and Privacy Policy\n",
+    "nameMinCharacters": "Name should consist of min. {count} characters",
+    "nameMaxCharacters": "Name should consist of max. {count} characters",
+    "apiNameMinCharacters": "Api name should consist of min. {count} characters",
+    "apiNameMaxCharacters": "Api name should consist of max. {count} characters",
+    "apiNameAlphaNum": "Api name should contain only alphabetic and numeric symbols",
+    "fieldMinCharacters": "{field} should consist of min. {count} characters",
+    "fieldMaxCharacters": "{field} should consist of max. {count} characters",
+    "charactersLength": "{count} or more characters",
+    "capitalLetter": "At least one capital letter",
+    "lowerCaseLetter": "At least one lowercase letter",
+    "digitLength": "Minimum of {count} digit",
+    "specialLetter": "Minimum of one special character",
+    "incorrectIpsList": "Should be correct list of ips",
+    "alphaNum": "Field should contain only alphabetic and numeric symbols",
+    "descriptionMaxCharacters": "Description should consist of max. {count} characters",
+    "minValue": "Field should be bigger than {count}"
+  }
+}
